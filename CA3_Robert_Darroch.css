@@ -1,0 +1,33 @@
+<head> 
+<title>CA3: CSS+GIT</title>
+<style type='text/css' media="screen">
+
+@media screen {
+    
+}
+body {
+    background-color: black;
+    color: white;
+}
+h1 {
+    color:white;
+    text-align: center;
+    font-size: 130%;
+} 
+.myDiv{
+    padding: 5px;
+    font-size: 100%;
+    color: yellow;
+    border: 1px solid white
+}
+td {
+    color: white;
+    padding: 5px;
+    border: 1px solid white
+}
+span#bold {
+    font-weight: bold;
+}
+
+</style>
+</head>
